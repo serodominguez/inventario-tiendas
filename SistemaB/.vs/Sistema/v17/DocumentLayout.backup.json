@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Manaco\\Proyectos\\Inventarios\\SistemaB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52FE8A00-B1BF-4373-A41D-00CA7622DB66}|Sistema.MVC\\Sistema.MVC.csproj|d:\\projects\\manaco\\proyectos\\inventarios\\sistemab\\sistema.mvc\\controllers\\inventariostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FE8A00-B1BF-4373-A41D-00CA7622DB66}|Sistema.MVC\\Sistema.MVC.csproj|solutionrelative:sistema.mvc\\controllers\\inventariostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventariosTController.cs",
+              "DocumentMoniker": "D:\\Projects\\Manaco\\Proyectos\\Inventarios\\SistemaB\\Sistema.MVC\\Controllers\\InventariosTController.cs",
+              "RelativeDocumentMoniker": "Sistema.MVC\\Controllers\\InventariosTController.cs",
+              "ToolTip": "D:\\Projects\\Manaco\\Proyectos\\Inventarios\\SistemaB\\Sistema.MVC\\Controllers\\InventariosTController.cs",
+              "RelativeToolTip": "Sistema.MVC\\Controllers\\InventariosTController.cs",
+              "ViewState": "AgIAACUHAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:39:15.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

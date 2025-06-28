@@ -1,0 +1,130 @@
+E:\InventarioPWA\Sistema\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.deps.json
+E:\InventarioPWA\Sistema\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.dll
+E:\InventarioPWA\Sistema\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.pdb
+E:\InventarioPWA\Sistema\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.AssemblyReference.cache
+E:\InventarioPWA\Sistema\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\InventarioPWA\Sistema\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfoInputs.cache
+E:\InventarioPWA\Sistema\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfo.cs
+E:\InventarioPWA\Sistema\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.CoreCompileInputs.cache
+E:\InventarioPWA\Sistema\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.dll
+E:\InventarioPWA\Sistema\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.pdb
+E:\VueJSPWA\BackEnd\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.deps.json
+E:\VueJSPWA\BackEnd\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.dll
+E:\VueJSPWA\BackEnd\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.pdb
+E:\VueJSPWA\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.AssemblyReference.cache
+E:\VueJSPWA\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\VueJSPWA\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfoInputs.cache
+E:\VueJSPWA\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfo.cs
+E:\VueJSPWA\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.CoreCompileInputs.cache
+E:\VueJSPWA\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.dll
+E:\VueJSPWA\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.pdb
+E:\Inventario\BackEnd\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.deps.json
+E:\Inventario\BackEnd\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.dll
+E:\Inventario\BackEnd\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.pdb
+E:\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.AssemblyReference.cache
+E:\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfoInputs.cache
+E:\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfo.cs
+E:\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.CoreCompileInputs.cache
+E:\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.dll
+E:\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.pdb
+E:\Shared\Inventario\BackEnd\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.deps.json
+E:\Shared\Inventario\BackEnd\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.dll
+E:\Shared\Inventario\BackEnd\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.pdb
+E:\Shared\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shared\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfoInputs.cache
+E:\Shared\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfo.cs
+E:\Shared\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.CoreCompileInputs.cache
+E:\Shared\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.dll
+E:\Shared\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.pdb
+E:\Shared\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.AssemblyReference.cache
+E:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.deps.json
+E:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.dll
+E:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.pdb
+E:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.AssemblyReference.cache
+E:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfoInputs.cache
+E:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfo.cs
+E:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.CoreCompileInputs.cache
+E:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.dll
+E:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.pdb
+C:\Users\Sergio\Desktop\Inventario\BackEnd\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.deps.json
+C:\Users\Sergio\Desktop\Inventario\BackEnd\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.dll
+C:\Users\Sergio\Desktop\Inventario\BackEnd\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.pdb
+C:\Users\Sergio\Desktop\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.dll
+C:\Users\Sergio\Desktop\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.pdb
+D:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.deps.json
+D:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.dll
+D:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.pdb
+D:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.AssemblyReference.cache
+D:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfoInputs.cache
+D:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfo.cs
+D:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.CoreCompileInputs.cache
+D:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.dll
+D:\Manaco\Inventario\BackEnd\Sistema\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.pdb
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.deps.json
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.dll
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.pdb
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.dll
+C:\Users\Sergio\Desktop\Nueva carpeta\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.pdb
+D:\Nueva carpeta\SistemaB\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.deps.json
+D:\Nueva carpeta\SistemaB\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.dll
+D:\Nueva carpeta\SistemaB\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.pdb
+D:\Nueva carpeta\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.AssemblyReference.cache
+D:\Nueva carpeta\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nueva carpeta\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfoInputs.cache
+D:\Nueva carpeta\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfo.cs
+D:\Nueva carpeta\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.dll
+D:\Nueva carpeta\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.pdb
+D:\Nueva carpeta (2)\SistemaB\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.deps.json
+D:\Nueva carpeta (2)\SistemaB\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.dll
+D:\Nueva carpeta (2)\SistemaB\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.pdb
+D:\Nueva carpeta (2)\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.AssemblyReference.cache
+D:\Nueva carpeta (2)\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nueva carpeta (2)\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfoInputs.cache
+D:\Nueva carpeta (2)\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfo.cs
+D:\Nueva carpeta (2)\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta (2)\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.dll
+D:\Nueva carpeta (2)\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.pdb
+D:\Vs 2022\Backend\SistemaB\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.deps.json
+D:\Vs 2022\Backend\SistemaB\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.dll
+D:\Vs 2022\Backend\SistemaB\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.pdb
+D:\Vs 2022\Backend\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.AssemblyReference.cache
+D:\Vs 2022\Backend\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs 2022\Backend\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfoInputs.cache
+D:\Vs 2022\Backend\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfo.cs
+D:\Vs 2022\Backend\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.CoreCompileInputs.cache
+D:\Vs 2022\Backend\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.dll
+D:\Vs 2022\Backend\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.pdb
+D:\Vs2019\SistemaB\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.deps.json
+D:\Vs2019\SistemaB\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.dll
+D:\Vs2019\SistemaB\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.pdb
+D:\Vs2019\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.AssemblyReference.cache
+D:\Vs2019\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs2019\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfoInputs.cache
+D:\Vs2019\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfo.cs
+D:\Vs2019\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.CoreCompileInputs.cache
+D:\Vs2019\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.dll
+D:\Vs2019\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.pdb
+C:\Users\Sergio\Desktop\Vs2019\SistemaB\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.deps.json
+C:\Users\Sergio\Desktop\Vs2019\SistemaB\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.dll
+C:\Users\Sergio\Desktop\Vs2019\SistemaB\Sistema.Entities\bin\Debug\netcoreapp3.1\Sistema.Entities.pdb
+C:\Users\Sergio\Desktop\Vs2019\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\Vs2019\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\Vs2019\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\Vs2019\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\Vs2019\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Vs2019\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.dll
+C:\Users\Sergio\Desktop\Vs2019\SistemaB\Sistema.Entities\obj\Debug\netcoreapp3.1\Sistema.Entities.pdb

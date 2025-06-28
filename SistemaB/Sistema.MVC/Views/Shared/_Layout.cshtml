@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset=utf-8>
+    <meta http-equiv=X-UA-Compatible content="IE=edge">
+    <meta name=viewport content="width=device-width,initial-scale=1">
+    <link rel="icon" href="~/favicon.ico">
+    <title>BATA</title>
+    <link rel=stylesheet href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900">
+    <link rel=stylesheet href="https://fonts.googleapis.com/css?family=Material+Icons">
+    <link href="~/css/chunk-vendors.0336549b.css" rel="stylesheet">
+    <link href="~/css/app.4569a4f0.css" rel="stylesheet">
+    <link href="/manifest.json" rel="manifest">
+</head>
+
+<body>
+    @RenderBody()
+    <noscript><strong>Activa JavaScript en tu navegador para continuar.</strong></noscript>
+    <div id=app></div>
+    <script src="~/js/chunk-vendors.e88d67dd.js"></script>
+    <script src="~/js/app.f6dac43a.js"></script>
+    @RenderSection("Scripts", required: false)
+    <script>
+        if (navigator.serviceWorker) {
+            console.log("Permite Service Worker")
+            navigator.serviceWorker.register("/service-worker.js").then(res => {
+                console.log("Se registro el Service Worker")
+            }).catch(err => {
+                console.log("No se registro el Service Worker")
+            })
+        } else {
+            console.log("No permite Service Worker")
+        }
+    </script>
+</body>
+</html>
